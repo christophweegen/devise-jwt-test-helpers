@@ -9,9 +9,9 @@ Gem::Specification.new do |s|
   s.version     = DeviseJwtTestHelpers::VERSION
   s.authors     = ["Christoph Weegen"]
   s.email       = ["christophweegen@googlemail.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of DeviseJwtTestHelpers."
-  s.description = "TODO: Description of DeviseJwtTestHelpers."
+  s.homepage    = "https://github.com/christophweegen/devise_jwt_test_helpers"
+  s.summary     = "Test helpers for devise-jwt gem."
+  s.description = "Useful helpers for easy testing of APIs using devise-jwt."
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.md"]
